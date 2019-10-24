@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Loan Code</source>
+                <target>ණය කේතය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Loan Name</source>
+                <target>නාමය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Description</source>
+                <target>විස්තරය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Interest Calculation Method</source>
+                <target>පොළිය ගණනය කිරීමේ ක්‍රමය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maximum Amount</source>
+                <target>උපරිම ගණන</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maximum Instalment</source>
+                <target>අවම වාරිකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Interest Type</source>
+                <target>පොළිය වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Interest Rate %</source>
+                <target>පොළිය ප්‍රතිශතය %</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Fixed</source>
+                <target>ස්ථාවර</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Percentage</source>
+                <target>ප්‍රතිශත</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Fixed Interest</source>
+                <target>ස්ථාවර පොළිය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Active Loan</source>
+                <target>ණය සක්‍රිය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarentor Required</source>
+                <target>ඇපකරුවන් අවශ්‍යය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Type</source>
+                <target>ණය වර්ගය</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Employee Number</source>
+                <target>සේවක සුචිය</target>
+            </trans-unit>      
+            <trans-unit id="112">
+                <source>Applied Loan Summary</source>
+                <target>ඉල්ලුම්කළ ණය සාරාංශය</target>
+            </trans-unit>      
+            <trans-unit id="112">
+                <source>Application ID</source>
+                <target>ඉල්ලුම්පත්‍ර අංකය</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Employee NIC</source>
+                <target>සේවක ජාතික හැදුනුම් පත් අංකය</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Loan Type Code</source>
+                <target>ණය වර්ග කේතය</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Max Loan Amount</source>
+                <target>උපරිම ණය ප්‍රමාණය</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>No Of Installments</source>
+                <target>වාරික ගණන</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Apply Amouont</source>
+                <target>ඉල්ලුම්කළ මුදල් ප්‍රමාණය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Apply Date</source>
+                <target>ඉල්ල්මුම්කල දිනය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Installment Amount</source>
+                <target>වාරික මුදල</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Interest Rate/Amount</source>
+                <target>පොලිය අනුපාතය/මුදල් ප්‍රමාණය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarantor Details</source>
+                <target>ඇපකරුගේ තොරතුරු</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Internal Guarantor</source>
+                <target>අභ්‍යන්තර  ඇපකරු</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>External Guarantor</source>
+                <target>බාහිර ඇපකරු</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarantor NIC Number</source>
+                <target>ඇපකරුගේ ජාතික හැදුනුම් පත් අංකය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>First Name</source>
+                <target>මුල් නම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Last Name</source>
+                <target>අන්තිම නම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarantor Type</source>
+                <target>ඇපකරුගේ වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarantor Name</source>
+                <target>ඇපකරුගේ නම</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Remove</source>
+                <target>මකා දමන්න</target>
+            </trans-unit>            
+            <trans-unit id="112">
+                <source>No of Guarantor</source>
+                <target>ඇපකරුවන් ගණන</target>
+            </trans-unit>        
+            <trans-unit id="112">
+                <source>External</source>
+                <target>බාහිර</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Internal</source>
+                <target>අභ්‍යනතර</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Loan Amount</source>
+                <target>ණය මුදල් ප්‍රමාණය</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Total Instalment</source>
+                <target>වාරික මුදල් එකතුව</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Balance Installments</source>
+                <target>ඉතිරි වාරික මුදල</target>
+            </trans-unit>  
+            <trans-unit id="112">   
+                <source>Active</source>
+                <target>සක්‍රිය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Balance Amount</source>
+                <target>ඉතිරි මුදල් ප්‍රමාණය</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Pay Period</source>
+                <target>ගෙවුම් කාල සීමාව</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Number of Installment</source>
+                <target>වාරික ගණන</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Loan Type Summary</source>
+                <target>ණය වර්ග සාරාංශය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Interest Rate/Amount %</source>
+                <target>පොලි අනුපාතය %</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Settlement Summary</source>
+                <target>ණය පියවීමේ සාරාංශය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Apply Loan</source>
+                <target>ණය ඉල්ලුම් කිරීම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Settlement</source>
+                <target>ණය පියවීම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Internal Guarantor Details</source>
+                <target>අභ්‍යන්තර ඇපකරුගේ තොරතුරු</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>External Guarantor Details</source>
+                <target>බාහිර ඇපකරුගේ තොරතුරු</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Type Name</source>
+                <target>ණය වර්ගයේ නම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Add Guarantor to Grid</source>
+                <target>එක් කරන්න</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Processed</source>
+                <target>කාර්යාවලියට ලක්වූ</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settled</source>
+                <target>නිරවුල් කරන ලද</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Installment</source>
+                <target>වාරිකය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Capital</source>
+                <target>මුල් මුදල</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Interest</source>
+                <target>පොළිය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Proceed Date</source>
+                <target>ක්‍රියා කරවන දිනය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settled Amount</source>
+                <target>ගෙවූ මුදල</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Last Settled No</source>
+                <target>වාරිකය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settled Date</source>
+                <target>ගෙවූ දිනය</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Settlement</source>
+                <target>ණය පියවීම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Inactivation</source>
+                <target>ණය සක්‍රිය/අක්‍රිය කිරීම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Reschedule</source>
+                <target>නැවත කාර්යසටහන සකස් කිරීම</target>
+            </trans-unit>             
+            <trans-unit id="112">
+                <source>Settlement Details</source>
+                <target>ණය පියවීම තොරතුරු</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Inactivation Details</source>
+                <target>ණය සක්‍රිය/අක්‍රිය කිරීම් තොරතුරු</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Reschedule Details</source>
+                <target>නැවත කාර්යසටහන සකස් කිරීම් තොරතුරු</target>
+            </trans-unit>     
+            <trans-unit id="112">
+                <source>Part Settlement</source>
+                <target>කොටසක් ගෙවීම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Full Settlement</source>
+                <target>සම්පුර්ණ මුදල ගෙවීම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Amount</source>
+                <target>එකතුව</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Activate</source>
+                <target>සක්‍රිය කරනවා</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Inactivate</source>
+                <target>නිෂ්ක්‍රිය කරනවා</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>By Installment</source>
+                <target>වාරිකය වශයෙන් ගෙවීම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>By Amount</source>
+                <target>මුදලින් ගෙවීම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settlement Mode</source>
+                <target>ණය පියවීමේ ක්‍රමය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Last Installment Number</source>
+                <target>අවසාන ණය වාරික අංකය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Instalment</source>
+                <target>වාරිකය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Balance Instalment</source>
+                <target>ඉතිරි මුදල් ප්‍රමාණය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Balance Interest</source>
+                <target>ඉතිරි මුදලේ පොලිය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Inactive</source>
+                <target>අක්‍රිය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Employee Wise</source>
+                <target>සේවකයා අනුව</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Wise</source>
+                <target>ණය අනුව</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Employee Name</source>
+                <target>සේවකයා නම</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Reducing Balance Equal Instalments</source>
+                <target>සමාන වාරිකය මගින් ගෙවීම්</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Simple Interest</source>
+                <target>සුළු පොළිය</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Interest Calculation</source>
+                <target>පොළිය ගණනය කිරීමේ</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Method</source>
+                <target>ක්‍රමය</target>
+            </trans-unit>            
+            <trans-unit id="112">
+                <source>Maximum Installment</source>
+                <target>උපරිම වාරික</target>
+            </trans-unit>      
+            <trans-unit id="112">
+                <source>Guarantor Required</source>
+                <target>ඇපකරු අවශ්‍යයි</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>No Of Installment</source>
+                <target>වාරික ගණන</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Apply Amount</source>
+                <target>ඉල්ලුම් කල ප්‍රමාණය</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
+ 

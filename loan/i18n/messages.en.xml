@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="en" datatype="plaintext" original="messages" date="2008-12-18T22:47:25Z" product-name="messages">
+        <header/>
+        <body>      
+            <trans-unit id="1">
+                <source>Loan Code</source>
+                <target>Loan Code</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Loan Name</source>
+                <target>Loan Name</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Description</source>
+                <target>Description</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Interest Calculation Method</source>
+                <target>Interest Calculation Method</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maximum Amount</source>
+                <target>Maximum Amount</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maximum Instalment</source>
+                <target>Maximum Instalment</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Interest Type</source>
+                <target>Interest Type</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Interest Rate %</source>
+                <target>Interest Rate %</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Fixed</source>
+                <target>Fixed</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Fixed Interest</source>
+                <target>Fixed Interest</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Active Loan</source>
+                <target>Active Loan</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarentor Required</source>
+                <target>Guarentor Required</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Type</source>
+                <target>Loan Type</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Employee Number</source>
+                <target>Employee Number</target>
+            </trans-unit>      
+            <trans-unit id="112">
+                <source>Applied Loan Summary</source>
+                <target>Applied Loan Summary</target>
+            </trans-unit>      
+            <trans-unit id="112">
+                <source>Application ID</source>
+                <target>Application ID</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Employee NIC</source>
+                <target>Employee NIC</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Loan Type Code</source>
+                <target>Loan Type Code</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Max Loan Amount</source>
+                <target>Max Loan Amount</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Max Loan Amount</source>
+                <target>Max Loan Amount</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>No Of Installments</source>
+                <target>No Of Installments</target>
+            </trans-unit>    
+            <trans-unit id="112">
+                <source>Apply Amouont</source>
+                <target>Apply Amouont</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Apply Date</source>
+                <target>Apply Date</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Installment Amount</source>
+                <target>Installment Amount</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Interest Rate/Amount</source>
+                <target>Interest Rate/Amount</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarantor Details</source>
+                <target>Guarantor Details</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Internal Guarantor</source>
+                <target>Internal Guarantor</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>External Guarantor</source>
+                <target>External Guarantor</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarantor NIC Number</source>
+                <target>Guarantor NIC Number</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>First Name</source>
+                <target>First Name</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Last Name</source>
+                <target>Last Name</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarantor Type</source>
+                <target>Guarantor Type</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Guarantor Name</source>
+                <target>Guarantor Name</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Remove</source>
+                <target>Remove</target>
+            </trans-unit>            
+            <trans-unit id="112">
+                <source>No of Guarantor</source>
+                <target>No of Guarantor</target>
+            </trans-unit>       
+            <trans-unit id="112">
+                <source>External</source>
+                <target>External</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Internal</source>
+                <target>Internal</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Loan Amount</source>
+                <target>Loan Amount</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Loan Amount</source>
+                <target>Loan Amount</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Total Instalment</source>
+                <target>Total Instalment</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Balance Installments</source>
+                <target>Balance Installments</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Active</source>
+                <target>Active</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Balance Amount</source>
+                <target>Balance Amount</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Pay Period</source>
+                <target>Pay Period</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Number of Installment</source>
+                <target>Number of Installment</target>
+            </trans-unit>  
+            <trans-unit id="112">
+                <source>Loan Type Summary</source>
+                <target>Loan Type Summary</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Interest Rate/Amount %</source>
+                <target>Interest Rate/Amount %</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Settlement Summary</source>
+                <target>Loan Settlement Summary</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Apply Loan</source>
+                <target>Apply Loan</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Settlement</source>
+                <target>Loan Settlement</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Internal Guarantor Details</source>
+                <target>Internal Guarantor Details</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>External Guarantor Details</source>
+                <target>External Guarantor Details</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Type Name</source>
+                <target>Loan Type Name</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Add Guarantor to Grid</source>
+                <target>Add Guarantor to Grid</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Processed</source>
+                <target>Processed</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settled</source>
+                <target>Settled</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Installment</source>
+                <target>Installment</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Capital</source>
+                <target>Capital</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Interest</source>
+                <target>Interest</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Proceed Date</source>
+                <target>Proceed Date</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settled Amount</source>
+                <target>Settled Amount</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Last Settled No</source>
+                <target>Last Settled No</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settled Date</source>
+                <target>Settled Date</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settlement</source>
+                <target>Settlement</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Inactivation</source>
+                <target>Inactivation</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Reschedule</source>
+                <target>Reschedule</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settlement Details</source>
+                <target>Settlement Details</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Inactivation Details</source>
+                <target>Inactivation Details</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Reschedule Details</source>
+                <target>Reschedule Details</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Part Settlement</source>
+                <target>Part Settlement</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Full Settlement</source>
+                <target>Full Settlement</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Amount</source>
+                <target>Amount</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Activate</source>
+                <target>Activate</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Inactivate</source>
+                <target>Inactivate</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>By Installment</source>
+                <target>By Installment</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>By Amount</source>
+                <target>By Amount</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Settlement Mode</source>
+                <target>Settlement Mode</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Last Installment Number</source>
+                <target>Last Installment Number</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Instalment</source>
+                <target>Instalment</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Balance Instalment</source>
+                <target>Balance Instalment</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Balance Interest</source>
+                <target>Balance Interest</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Inactive</source>
+                <target>Inactive</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Employee Wise</source>
+                <target>Employee Wise</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Loan Wise</source>
+                <target>Loan Wise</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Employee Name</source>
+                <target>Employee Name</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Reducing Balance Equal Instalments</source>
+                <target>Reducing Balance Equal Instalments</target>
+            </trans-unit> 
+            <trans-unit id="112">
+                <source>Simple Interest</source>
+                <target>Simple Interest</target>
+            </trans-unit> 
+        </body>
+    </file>
+</xliff>
+	 	
+	  	 		

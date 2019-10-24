@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Loan Code</source>
+                <target>கடன் குறியீடு</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Loan Name</source>
+                <target>கடன் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Description</source>
+                <target>விளக்கம்</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Interest Calculation Method</source>
+                <target>வட்டி கணக்கீடு முறை</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>Maximum Amount</source>
+                <target>அதிகபட்ச தொகை</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Maximum Installment</source>
+                <target>அதிகபட்ச தவணை</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>Interest Type</source>
+                <target>வட்டி வகை</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Interest Rate %</source>
+                <target>வட்டி விகிதம்%</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Fixed</source>
+                <target>சரி செய்யப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Percentage</source>
+                <target>சதவீதம்</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Fixed Interest</source>
+                <target>நிலையான வட்டி</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Active Loan</source>
+                <target>செயலில் கடன்</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>Guarantor Required</source>
+                <target>உறுதி அளிப்பவர் தேவைப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>Loan Type</source>
+                <target>கடன் வகை</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Employee Number</source>
+                <target>பணியாளர் எண்ணிக்கை</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>Applied Loan Summary</source>
+                <target>பயன்படுத்தப்படும் கடன் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>Application ID</source>
+                <target>பயன்பாட்டு ஐடி</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>Employee NIC</source>
+                <target>பணியாளர் தேசிய அடையாள அட்டை</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Loan Type Code</source>
+                <target>கடன் வகை கோட்</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>Max Loan Amount</source>
+                <target>மேக்ஸ் கடன் தொகை</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>No Of Installments</source>
+                <target>நிறுவல்களின் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Apply Amount</source>
+                <target>தொகை விண்ணப்பிக்க</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>Apply Date</source>
+                <target>தேதி விண்ணப்பிக்க</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>Installment Amount</source>
+                <target>தவணை தொகை</target>
+            </trans-unit>
+            <trans-unit id="25">
+                <source>Interest Rate/Amount</source>
+                <target>வட்டி விகிதம் / தொகை</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>Guarantor Details</source>
+                <target>உறுதி அளிப்பவர் விவரம்</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>Internal Guarantor</source>
+                <target>உள் உறுதி அளிப்பவர்</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>External Guarantor</source>
+                <target>வெளிப்புற உறுதி அளிப்பவர்</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>Guarantor NIC Number</source>
+                <target>உறுதி அளிப்பவர் தேசிய அடையாள அட்டை எண்</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>First Name</source>
+                <target>முதல் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="31">
+                <source>Last Name</source>
+                <target>கடைசி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="32">
+                <source>Guarantor Type</source>
+                <target>உறுதி அளிப்பவர் வகை</target>
+            </trans-unit>
+            <trans-unit id="33">
+                <source>Guarantor Name</source>
+                <target>பொறுப்பு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="35">
+                <source>No of Guarantor</source>
+                <target>உறுதி அளிப்பவர் எண்ணிக்கை</target>
+            </trans-unit>
+            <trans-unit id="36">
+                <source>External</source>
+                <target>வெளிப்புற</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Internal</source>
+                <target>உள்</target>
+            </trans-unit>
+            <trans-unit id="38">
+                <source>Loan Amount</source>
+                <target>கடன் தொகை</target>
+            </trans-unit>
+            <trans-unit id="39">
+                <source>Total Installment</source>
+                <target>மொத்த தவணை</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>Balance Installments</source>
+                <target>இருப்பு தவணை</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>Active</source>
+                <target>செயலில்</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>Balance Amount</source>
+                <target>இருப்பு தொகை</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>Pay Period</source>
+                <target>காலம் செலுத்த</target>
+            </trans-unit>
+            <trans-unit id="44">
+                <source>Number of Installment</source>
+                <target>தவணை எண்ணிக்கை</target>
+            </trans-unit>
+            <trans-unit id="45">
+                <source>Loan Type Summary</source>
+                <target>கடன் வகை சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="46">
+                <source>Interest Rate/Amount %</source>
+                <target>வட்டி விகிதம் / தொகை%</target>
+            </trans-unit>
+            <trans-unit id="47">
+                <source>Loan Settlement Summary</source>
+                <target>கடன் தீர்வு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>Apply Loan</source>
+                <target>கடன் விண்ணப்பிக்க</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>Loan Settlement</source>
+                <target>கடன் தீர்வு</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>Internal Guarantor Details</source>
+                <target>உள் உறுதி அளிப்பவர் விவரம்</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>External Guarantor Details</source>
+                <target>வெளிப்புற உறுதி அளிப்பவர் விவரம்</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>Loan Type Name</source>
+                <target>கடன் வகை பெயர்</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>Add Guarantor to Grid</source>
+                <target>கட்டத்திற்கு உறுதி அளிப்பவர் சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>Processed</source>
+                <target>பதப்படுத்தப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Settled</source>
+                <target>தீர்வு</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Installment</source>
+                <target>தவணைமுறை</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Capital</source>
+                <target>மூலதனம்</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Interest</source>
+                <target>வட்டி</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Proceed Date</source>
+                <target>தேதி செல்லவும்</target>
+            </trans-unit>
+            <trans-unit id="60">
+                <source>Settled Amount</source>
+                <target>தீர்வு தொகை</target>
+            </trans-unit>
+            <trans-unit id="61">
+                <source>Last Settled No</source>
+                <target>கடந்த நிலைபெற்ற இல்லை</target>
+            </trans-unit>
+            <trans-unit id="62">
+                <source>Settled Date</source>
+                <target>தீர்வு தேதி</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>Settlement</source>
+                <target>தீர்மானம்</target>
+            </trans-unit>
+            <trans-unit id="64">
+                <source>Inactivation</source>
+                <target>செயலிழக்க</target>
+            </trans-unit>
+            <trans-unit id="65">
+                <source>Reschedule</source>
+                <target>Reschedule</target>
+            </trans-unit>
+            <trans-unit id="66">
+                <source>Settlement Details</source>
+                <target>தீர்வு விவரம்</target>
+            </trans-unit>
+            <trans-unit id="67">
+                <source>Inactivation Details</source>
+                <target>செயலிழக்க விவரம்</target>
+            </trans-unit>
+            <trans-unit id="68">
+                <source>Reschedule Details</source>
+                <target>விவரம் Reschedule</target>
+            </trans-unit>
+            <trans-unit id="69">
+                <source>Part Settlement</source>
+                <target>பகுதி தீர்வு</target>
+            </trans-unit>
+            <trans-unit id="70">
+                <source>Full Settlement</source>
+                <target>முழு தீர்வு</target>
+            </trans-unit>
+            <trans-unit id="71">
+                <source>Amount</source>
+                <target>தொகை</target>
+            </trans-unit>
+            <trans-unit id="72">
+                <source>Activate</source>
+                <target>செயல்படுத்துதல்</target>
+            </trans-unit>
+            <trans-unit id="73">
+                <source>Inactivate</source>
+                <target>கிளர்வு அழி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>By Installment</source>
+                <target>தவணை முடிவு</target>
+            </trans-unit>
+            <trans-unit id="74">
+                <source>By Amount</source>
+                <target>தொகை முடிவு</target>
+            </trans-unit>
+            <trans-unit id="75">
+                <source>Settlement Mode</source>
+                <target>தீர்வு முறை</target>
+            </trans-unit>
+            <trans-unit id="76">
+                <source>Last Installment Number</source>
+                <target>கடைசி தவணை எண்</target>
+            </trans-unit>
+            <trans-unit id="77">
+                <source>Installment</source>
+                <target>தவணைமுறை</target>
+            </trans-unit>
+            <trans-unit id="78">
+                <source>Balance Installment</source>
+                <target>இருப்பு தவணை</target>
+            </trans-unit>
+            <trans-unit id="79">
+                <source>Balance Interest</source>
+                <target>சமநிலை வட்டி</target>
+            </trans-unit>
+            <trans-unit id="80">
+                <source>Inactive</source>
+                <target>ஜடமான</target>
+            </trans-unit>
+            <trans-unit id="81">
+                <source>Employee Wise</source>
+                <target>பணியாளர் வைஸ்</target>
+            </trans-unit>
+            <trans-unit id="82">
+                <source>Loan Wise</source>
+                <target>கடன் வைஸ்</target>
+            </trans-unit>
+            <trans-unit id="83">
+                <source>Employee Name</source>
+                <target>பணியாளர் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="84">
+                <source>Reducing Balance Equal Installments</source>
+                <target>இருப்பு சம தவணைகளில் குறைப்பது</target>
+            </trans-unit>
+            <trans-unit id="85">
+                <source>Simple Interest</source>
+                <target>எளிய வட்டி</target>
+            </trans-unit>
+            <trans-unit id="86">
+                <source> Effective Date</source>
+                <target>  நடைமுறைப்படுத்திய தேதி</target>
+            </trans-unit>
+            <trans-unit id="87">
+                <source>Loan History and Status</source>
+                <target>கடன் வரலாறு மற்றும் தகுதி</target>
+            </trans-unit>
+            <trans-unit id="88">
+                <source>Apply Amount should be less than or equal to Max Loan Amount.</source>
+                <target>விண்ணப்பிக்க தொகை கடன் தொகை மேக்ஸ் குறைவான அல்லதுசமமாக இருக்க வேண்டும்.</target>
+            </trans-unit>
+            <trans-unit id="89">
+                <source>Invalid Effective Date</source>
+                <target>செல்லாத சிறந்த தேதி</target>
+            </trans-unit>
+            <trans-unit id="90">
+                <source>Wait..</source>
+                <target>காத்திருக்க ..</target>
+            </trans-unit>
+            <trans-unit id="91">
+                <source>Maximum 50 Characters</source>
+                <target>அதிகபட்ச 50 எழுத்துக்கள்</target>
+            </trans-unit>
+            <trans-unit id="92">
+                <source>This field is required.</source>
+                <target>இந்த புலம் தேவைப்படுகிறது.</target>
+            </trans-unit>
+            <trans-unit id="93">
+                <source>Reducing Balance Equal Installments</source>
+                <target>இருப்பு சம தவணைகளில் குறைப்பது</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
